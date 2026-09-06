@@ -148,6 +148,34 @@ const ASCII_ARTS = [
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⣿⣿⠿⠿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+`,
+
+  // Tux with cape
+  `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠶⠾⠛⠛⠛⠛⠻⠶⠶⠦⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠏⠀⠀⠀⠀⣀⣤⣴⣶⠶⠶⠶⠶⡶⣤⡄⠀⠀⠀⠀⢻⡆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⠀⢠⣾⣯⠁⠀⠀⠣⠀⠀⠀⠔⠀⣻⡆⠀⠀⠀⠈⢿⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠘⣿⣟⡿⣶⢤⡤⣤⢤⡤⣤⣴⣿⠀⠀⠀⠀⠀⠸⣧⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠛⠛⠛⠛⠋⠃⠀⠀⠀⠀⠀⠀⢿⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣇⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷
+⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
+⠀⠀⠀⠀⠀⠀⢰⡏⠀⠀⠀⠀⠀⠀⢀⣾⠛⠉⠉⠉⠉⠉⠉⠉⠻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
+⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
+⢀⣤⠶⠶⠶⠶⠶⠇⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿
+⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⢷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠟⠀⠀⠀⠀⠀⠀⠀⢀⣴⠶⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+⠀⠉⠛⠛⠷⠶⠶⠶⠶⠶⠶⠶⠞⠛⠋⠁⠀⠀⠀⠀⠀⣰⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡾⠋⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣦⣤⣀⣀⣤⣤⣤⣤⡴⠶⠟⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 `
 ];
 
@@ -212,18 +240,18 @@ const LINKS = [
 
 export default function Home() {
   return (
-    <main className="scanlines min-h-dvh px-7 py-9 md:px-11 md:py-11">
+    <main className="scanlines min-h-dvh px-5 py-6 sm:px-7 sm:py-9 md:px-11 md:py-11">
       <div className="max-w-4xl">
         {/* Prompt */}
-        <div className="mb-6 text-base animate-fade-up delay-1">
+        <div className="mb-4 md:mb-6 text-sm sm:text-base animate-fade-up delay-1">
           <span className="text-terminal-peach">$</span>
           <span className="text-terminal-rose ml-1">fastfetch --preset sr1k7nth</span>
         </div>
 
-        <div className="flex flex-col md:flex-row gap-7 md:gap-14">
+        <div className="flex flex-col items-center md:items-start md:flex-row gap-6 md:gap-14">
           {/* ASCII Logo */}
-          <div className="flex-shrink-0 animate-fade-up delay-2">
-            <pre className="text-terminal-pink text-[11px] md:text-sm leading-tight select-none whitespace-pre">
+          <div className="flex-shrink-0 animate-fade-up delay-2 overflow-x-auto max-w-full">
+            <pre className="text-terminal-pink text-[9px] sm:text-[10px] md:text-sm leading-tight select-none whitespace-pre">
               {ASCII_ARTS[Math.floor(Math.random() * ASCII_ARTS.length)]}
             </pre>
           </div>
@@ -234,12 +262,12 @@ export default function Home() {
               {SECTIONS.map((section, i) => (
                 <div
                   key={section.label}
-                  className={`animate-fade-up delay-${i + 2} grid grid-cols-[auto_1fr] gap-x-2`}
+                  className={`animate-fade-up delay-${i + 2} flex flex-col sm:grid sm:grid-cols-[auto_1fr] gap-x-2`}
                 >
-                  <span className="text-terminal-peach font-bold text-base text-right whitespace-nowrap">
+                  <span className="text-terminal-peach font-bold text-sm sm:text-base sm:text-right whitespace-nowrap">
                     {section.label}:
                   </span>
-                  <span className="text-terminal-lavender text-base whitespace-nowrap">
+                  <span className="text-terminal-lavender text-sm sm:text-base break-words sm:whitespace-nowrap">
                     {section.value}
                   </span>
                 </div>
@@ -247,14 +275,14 @@ export default function Home() {
             </div>
 
             {/* Separator */}
-            <div className="animate-fade-up delay-7 pt-4">
+            <div className="animate-fade-up delay-7 pt-3 md:pt-4">
               <div className="h-px bg-terminal-burgundy/40" />
             </div>
 
             {/* Links */}
-            <div className="animate-fade-up delay-8 pt-2 grid grid-cols-[auto_1fr] gap-x-2 text-base">
-              <span className="text-terminal-peach font-bold text-right whitespace-nowrap">Links:</span>
-              <span className="text-terminal-pink whitespace-nowrap">
+            <div className="animate-fade-up delay-8 pt-2 flex flex-col sm:grid sm:grid-cols-[auto_1fr] gap-x-2 gap-y-1 text-sm sm:text-base">
+              <span className="text-terminal-peach font-bold sm:text-right whitespace-nowrap">Links:</span>
+              <span className="text-terminal-pink flex flex-wrap gap-x-0">
                 {LINKS.map((link, i) => (
                   <span key={link.label}>
                     <a
@@ -274,7 +302,7 @@ export default function Home() {
             </div>
 
             {/* Cursor */}
-            <div className="animate-fade-up delay-8 pt-3 text-base">
+            <div className="animate-fade-up delay-8 pt-3 text-sm sm:text-base">
               <span className="text-terminal-peach">$</span>
               <span className="inline-block w-2.5 h-5 bg-terminal-peach ml-1 cursor-blink" />
             </div>
