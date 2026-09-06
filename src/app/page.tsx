@@ -280,9 +280,9 @@ export default function Home() {
             </div>
 
             {/* Links */}
-            <div className="animate-fade-up delay-8 pt-2 flex flex-col sm:grid sm:grid-cols-[auto_1fr] gap-x-2 gap-y-1 text-sm sm:text-base">
-              <span className="text-terminal-peach font-bold sm:text-right whitespace-nowrap">Links:</span>
-              <span className="text-terminal-pink flex flex-wrap gap-x-0">
+            <div className="animate-fade-up delay-8 pt-2 grid grid-cols-[auto_1fr] gap-x-2 text-base">
+              <span className="text-terminal-peach font-bold text-right whitespace-nowrap">Links:</span>
+              <span className="text-terminal-pink whitespace-nowrap">
                 {LINKS.map((link, i) => (
                   <span key={link.label}>
                     <a
@@ -299,6 +299,12 @@ export default function Home() {
                   </span>
                 ))}
               </span>
+            </div>
+
+            {/* Cursor */}
+            <div className="animate-fade-up delay-8 pt-3 text-base flex items-center">
+              <span className="text-terminal-peach">$</span>
+              <span className="inline-block w-2.5 h-5 bg-terminal-peach ml-1 cursor-blink" />
             </div>
 
             {/* Cursor */}
