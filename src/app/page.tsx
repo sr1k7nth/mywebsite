@@ -306,12 +306,6 @@ export default function Home() {
               <span className="text-terminal-peach">$</span>
               <span className="inline-block w-2.5 h-5 bg-terminal-peach ml-1 cursor-blink" />
             </div>
-
-            {/* Cursor */}
-            <div className="animate-fade-up delay-8 pt-3 text-sm sm:text-base">
-              <span className="text-terminal-peach">$</span>
-              <span className="inline-block w-2.5 h-5 bg-terminal-peach ml-1 cursor-blink" />
-            </div>
           </div>
         </div>
       </div>
