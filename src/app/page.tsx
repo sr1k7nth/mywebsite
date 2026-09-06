@@ -175,7 +175,7 @@ const SECTIONS: InfoLine[] = [
   },
   {
     label: "Text Editor",
-    value: "NeoVIM, OpenCode, VSCode",
+    value: "NeoVim, OpenCode, VSCode",
   },
   {
     label: "OS",
